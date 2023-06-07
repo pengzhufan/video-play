@@ -36,7 +36,7 @@ export default {
                     	　　src: "http://192.168.4.172:8080/api/baseResource/video"
                   	},
                    ],
-                  // 视频封面
+                  // 视频 封面
                   //poster: require('./icon/cover.jpg'),　
 　　　　　　 }
 　　　　}
