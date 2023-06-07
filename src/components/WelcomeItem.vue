@@ -42,7 +42,7 @@ export default {
 　　　　}
 　　},
 　　computed: {
-    	//插件节点 用于添加自定义按钮事件
+    	//插件 节点 用于添加自定义按钮事件
 　　　　player() {
 　　　　　　return this.$refs.videoPlayer.player
 　　　　}
